@@ -1,0 +1,20 @@
+{
+  "name": "node-gitpod",
+  "version": "1.0.0",
+  "description": "Uso de gitpod por primera vez editado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegovilla82/node-gitpod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegovilla82/node-gitpod/issues"
+  },
+  "homepage": "https://github.com/diegovilla82/node-gitpod#readme"
+}
