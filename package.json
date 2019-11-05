@@ -4,7 +4,7 @@
   "description": "Uso de gitpod por primera vez editado",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/diegovilla82/node-gitpod/issues"
   },
-  "homepage": "https://github.com/diegovilla82/node-gitpod#readme"
+  "homepage": "https://github.com/diegovilla82/node-gitpod#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
 }
